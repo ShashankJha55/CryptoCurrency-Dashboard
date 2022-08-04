@@ -1,0 +1,2 @@
+# CryptoCurrency-Dashboard
+The given dashboard shows visualization with information about various aspects about various types of Cryptocurrency over the duration of 2013-21. The Cryptocurrencies included are Bitcoin, Binance Coin, Ethereum, Dodge Coin etc. The data whose visual representation are shown are The Market caps, Open, Close, High and low price of these crypto-currencies. One interesting feature of this visualization is that it also shows the forecast of the Market Cap of various crypto currencies based on the data that we currently have.
